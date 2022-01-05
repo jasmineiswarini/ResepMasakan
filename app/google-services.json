@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274017060214",
+    "project_id": "resep-makanan-nusantara-bcc23",
+    "storage_bucket": "resep-makanan-nusantara-bcc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274017060214:android:d56a2b2a049dbe63396657",
+        "android_client_info": {
+          "package_name": "com.example.resepmasakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274017060214-lv2qoholsd09hia0ldcrj5qsdivsrnf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3CtrBFTi1-2lL3wkog5MB6aR_8xgh40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274017060214-lv2qoholsd09hia0ldcrj5qsdivsrnf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
